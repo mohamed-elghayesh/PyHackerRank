@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "python_3.0", "count_substring\python_3.0.pyproj", "{093ECC9A-D1B4-4C49-9848-B3FF22CE5D39}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "artificial_intelligence", "artificial_intelligence\artificial_intelligence.pyproj", "{95162970-1D8F-49B2-8CC3-9F5305997FF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{093ECC9A-D1B4-4C49-9848-B3FF22CE5D39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{093ECC9A-D1B4-4C49-9848-B3FF22CE5D39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95162970-1D8F-49B2-8CC3-9F5305997FF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95162970-1D8F-49B2-8CC3-9F5305997FF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57075EC5-E9E3-4731-AA40-BA0F18B9EA3C}
+	EndGlobalSection
+EndGlobal
